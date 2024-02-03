@@ -65,7 +65,7 @@
     </distributionManagement>
          
     <build>
-        <finalName>classA24-votingapp</finalName>
+        <finalName>votingapp-webapplication</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
